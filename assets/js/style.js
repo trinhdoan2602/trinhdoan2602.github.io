@@ -86,6 +86,12 @@ const app = {
             singer: 'Ngọc Dolil',
             path: './assets/music/song11.mp3',
             image: './assets/img/song11.jpg'
+        },
+        {
+            name: 'Halo',
+            singer: 'Beyoncé',
+            path: './assets/music/song12.mp3',
+            image: './assets/img/song12.jpg'
         }
 
     ],

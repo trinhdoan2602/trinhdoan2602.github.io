@@ -92,6 +92,18 @@ const app = {
             singer: 'Beyoncé',
             path: './assets/music/song12.mp3',
             image: './assets/img/song12.jpg'
+        },
+        {
+            name: 'Cô Ấy Không Cần Tôi',
+            singer: 'Trường Anh x Hào Kiệt',
+            path: './assets/music/song13.mp3',
+            image: './assets/img/song13.jpg'
+        },
+        {
+            name: 'Một Mình Ta',
+            singer: 'buitruonglinh',
+            path: './assets/music/song14.mp3',
+            image: './assets/img/song14.jpg'
         }
 
     ],
